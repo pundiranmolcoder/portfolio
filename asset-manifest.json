@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d66c3633.css",
+    "main.js": "/portfolio/static/js/main.b2214735.js",
+    "static/js/453.6264690d.chunk.js": "/portfolio/static/js/453.6264690d.chunk.js",
+    "static/media/anmol.jpg": "/portfolio/static/media/anmol.7b67aba0b0ef851ffdd2.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.d66c3633.css.map": "/portfolio/static/css/main.d66c3633.css.map",
+    "main.b2214735.js.map": "/portfolio/static/js/main.b2214735.js.map",
+    "453.6264690d.chunk.js.map": "/portfolio/static/js/453.6264690d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d66c3633.css",
+    "static/js/main.b2214735.js"
+  ]
+}
